@@ -1,5 +1,3 @@
-*This project has been created as part of the 42 curriculum by kpagkalo.*
-
 # Description
 
 **get_next_line** is a project from the 42 common core . The goal is to create a function that reads a file descriptor and returns one line at a time, allowing a program to process files without reading the entire content into memory at once.
